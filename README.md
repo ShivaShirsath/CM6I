@@ -6,7 +6,7 @@
   </head>
   <body>
     <div class="main">
-      <img class="img" src="logo.png" border="0" alt="MSBTE LOGO" />
+      <img src="logo.png" width=6% height=6% border="0" alt="MSBTE LOGO" />
       <div class="heading">
         <h1 style="font-size:35px;">Maharashtra State Board of Technical Education</h1>
         <h3 class="statment">Statement of Marks</h3>
