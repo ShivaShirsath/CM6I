@@ -2,83 +2,81 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <style>
-    body {
+    body{
       font-family: Calibri;
     }
     .tableRecordPadding {
       font-weight: bold;
       padding: 2px 0 2px 2px;
     }
-    .Error {
+    .Error{
       text-align: center;
       margin: 70px 0;
       color: red;
       font-size: 1.5em;
     }
-    .Error1 {
+    .Error1{
       text-align: center;
       color: red;
       font-size: 1.5em;
     }
-        .statment {
+        .statment{
             font-family: Calibri;
             text-align: center;
             margin-top: 20px;
             text-transform: uppercase;
         }
-        .tbl tr td {
+        .tbl tr td{
             padding: 2px 5px;
         }
-        .Instruct {
+        .Instruct{
             display: table-cell;
         }
-        * {
+        *{
             margin: 0px;
             padding: 0px;
         }
-        .main {
+        .main{
             width: 1050px;
             height: auto;
             border: 3px dotted black;
             margin: auto;
             padding: 10px;
         }
-        .heading {
+        .heading{
             width: 100%;
             height: 100px;
         }
-        .heading h1,
-        h3 {
+        .heading h1, h3{
             font-family: 'Old English Text MT';
             text-align: center
         }
-        .img {
+        .img{
             width: 10%;
             height: 100px;
             float: left;
             margin-left: 15px;
         }
-        .td {
+        .td{
             /*border-left:1px solid;
-           border-right:1px solid;
-           border-bottom:1px solid;*/
+            border-right:1px solid;
+            border-bottom:1px solid;*/
             height: 15px;
             width: 205px;
             text-align: center;
         }
-        .td1 {
+        .td1{
             /*border: 1px solid;*/
             height: 15px;
             width: 80px;
             text-align: center;
         }
         table,
-        th,
-        td {
+        th, td{
             border: 1px solid black;
             border-collapse: collapse;
         }
-        .col {
+        .col{
             border: 0px;
             border-bottom: 1px dashed;
             border-collapse: collapse;
