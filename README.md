@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
   <head>
     <title>CM6I</title>
-    <sript>
+    <style>
     body {
       font-family: Calibri;
     }
@@ -32,7 +32,6 @@
         }
         .Instruct {
             display: table-cell;
- 
         }
         * {
             margin: 0px;
@@ -52,7 +51,6 @@
         }
         .heading h1,
         h3 {
- 
             font-family: 'Old English Text MT';
             text-align: center
         }
@@ -88,7 +86,7 @@
             border-collapse: collapse;
             height: 40px;
         }
-    </script>
+    </style>
   </head>
   <body>
     <div class="main">
