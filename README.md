@@ -7,19 +7,16 @@
   <body>
     <div class="main">
       <img class="img" src="logo.png" border="0" alt="MSBTE LOGO" />
-
       <div class="heading">
         <h1 style="font-size:35px;">Maharashtra State Board of Technical Education</h1>
         <h3 class="statment">Statement of Marks</h3>
       </div>
-
       <div>
         <table style="width:100%;margin-top:10px;border:0px solid">
           <tr>
             <td style="width:155px;" class="col">   <strong>MR. / MS.</strong></td>
             <td colspan="6" class="col"><strong>SHIRSATH SHIVANAND SANDIP</strong></td>
           </tr>
-
           <tr>
             <td style="width:155px;" class="col"><strong>ENROLLMENT NO.</strong></td>
             <td style="width:170px;" class="col"> 1700300380</td>
@@ -29,14 +26,11 @@
             <td style="width:100px;" class="col">383898</td>
             <td class="col"><strong>FINAL SEMESTER</strong></td>
           </tr>
-
           <tr>
             <td style="margin-right:20px;width:155px;" class="col">   <strong>COURSE</strong></td>
             <td colspan="6" class="col">Diploma In Computer Technology</td>
           </tr>
         </table>
-
-
         <div id="dvMain0">
           <table border='1' cellspacing='0' align='center' widht='0'>
             <tr>
@@ -317,7 +311,6 @@
             </tr>
           </table>
         </div>
-
         <div>
           <table class='tbl' border='1' cellspacing='0' align='center' widht='0'>
             <tr>
@@ -421,17 +414,11 @@
             </tr>
           </table>
         </div>
-
       </div>
     </div>
-
     <br />
     <br />
-
     <p style="page-break-after: always;"> </p>
     <!--<p style="page-break-before: always;"> </p>-->
-
-
   </body>
-
 </html>
