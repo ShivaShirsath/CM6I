@@ -36,7 +36,6 @@
         * {
             margin: 0px;
             padding: 0px;
- 
         }
         .main {
             width: 1050px;
